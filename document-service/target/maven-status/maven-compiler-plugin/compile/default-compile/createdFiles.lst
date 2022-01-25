@@ -1,0 +1,4 @@
+com\ertug\DocumentServiceMain.class
+com\ertug\generator\DocumentGenerator.class
+com\ertug\queue\Listener.class
+com\ertug\starter\ApplicationAfterStarter.class

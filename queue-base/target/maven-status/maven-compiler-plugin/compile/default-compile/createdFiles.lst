@@ -1,0 +1,4 @@
+com\ertug\queue\base\QueueConsumer.class
+com\ertug\queue\base\QueueInitializer.class
+com\ertug\queue\base\QueueObserver.class
+com\ertug\queue\base\QueuePublisher.class

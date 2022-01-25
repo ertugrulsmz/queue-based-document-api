@@ -1,0 +1,9 @@
+queue:
+  queue-name-listen: webservice-queue
+  exchange-name: documentgenerator-exchange
+  key-name: documentgenerator
+  queue-name-publish: documentgenerator-queue
+
+
+server:
+  port: 8190
